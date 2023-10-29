@@ -1,9 +1,13 @@
 # NeoLand
 ![NeoLand](https://github.com/NeoDaark/NeoLand/blob/main/imagen.png?raw=true)
-[Modrinth](https://modrinth.com/modpack/neolandpack)
-[Discord](https://discord.gg/Xux8ZW5KjR)
+<hr>
 
-# Gallery
+### Project Links
+- [Modrinth](https://modrinth.com/modpack/neolandpack)<br>
+- [Discord](https://discord.gg/Xux8ZW5KjR)
+<hr>
+
+### Gallery
 ![NeoLand](https://cdn.modrinth.com/data/Tg8H62FT/images/2e53d70a1cbc2f7e96c47d2ec3388bc23d35a39c.png)
 ![NeoLand](https://cdn.modrinth.com/data/Tg8H62FT/images/2750bafc0eacd6640c8871b1133e3eccfd0160db.png)
 ![NeoLand](https://cdn.modrinth.com/data/Tg8H62FT/images/498ddf517f290bd992a7e9975574d16a5bd9f030.png)
