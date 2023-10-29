@@ -1,5 +1,7 @@
 # NeoLand
 ![NeoLand](https://github.com/NeoDaark/NeoLand/blob/main/imagen.png?raw=true)
+[Modrinth](https://modrinth.com/modpack/neolandpack)
+[Discord](https://discord.gg/Xux8ZW5KjR)
 
 # Gallery
 ![NeoLand](https://cdn.modrinth.com/data/Tg8H62FT/images/2e53d70a1cbc2f7e96c47d2ec3388bc23d35a39c.png)
