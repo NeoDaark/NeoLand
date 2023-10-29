@@ -1,2 +1,2 @@
 # NeoLand
-![NeoLand](https://github.com/NeoDaark/NeoLand/blob/main/imagen.png?raw=true)https://github.com/NeoDaark/NeoLand/blob/main/imagen.png?raw=true)
+![NeoLand](https://github.com/NeoDaark/NeoLand/blob/main/imagen.png?raw=true)
